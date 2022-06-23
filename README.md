@@ -4,7 +4,7 @@
 
 Welcome to my profile! 
 
-I'm passionate of technology. I have spent my technological career (the only one I have had) between software development and analyst / team management, a mix of management and technical skills. I am currently focused in backend development, integrations to be more accurate, and agile methodologies.
+I'm passionate of technology. I have spent my technology career (the only one I have had) between software development and analyst / team management, a mix of management and technical skills. I am currently focused in backend development, integrations to be more accurate, and agile methodologies.
 
 Thanks for visiting and I'd love to [connect](www.linkedin.com/in/raqueldominguezandujar/)!
 
